@@ -14,3 +14,4 @@ To run the main.py file you can use 3 arguments:
 
 
 You could also use cPickle (C version) to speed up the process.
+Codacy Badge
