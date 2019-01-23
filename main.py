@@ -14,7 +14,7 @@ import re
 import xml.etree.ElementTree as ET
 
 # arguments available
-parser = argparse.ArgumentParser(description='Welocalise test.')
+parser = argparse.ArgumentParser(description='TMX Processor.')
 parser.add_argument('--input',
                     help='The input file', type=str, default='en-fr.tmx.gz')
 parser.add_argument('--output',
